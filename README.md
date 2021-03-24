@@ -1,2 +1,2 @@
 # dice_challenge
-Learning javascript by building the dice challenge
+Learning javascript by building the dice game
